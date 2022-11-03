@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+.img-book {
+    height: 150px;
+    width: 150px;
+}
+.para {
+    padding-left: 5px;
+    margin-left: 5px;
+}
+.main-heading {
+    color: black;
+    font-size: 25px;
+}
+
+.bg-color {
+    background-color: #b4bfb7;
+    height: 110vh;
+    background-size: cover;
+}
+.dates-color {
+    color: #847f7c;
+    font-size: 10px;
+}
